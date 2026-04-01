@@ -1,9 +1,0 @@
-[Error - 5:12:42 PM] Request textDocument/definition failed.
-  Message: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
-  Code: 0 
-[Error - 10:55:40 AM] Request textDocument/definition failed.
-  Message: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
-  Code: 0 
-[Error - 11:38:03 AM] Request textDocument/definition failed.
-  Message: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
-  Code: 0 
