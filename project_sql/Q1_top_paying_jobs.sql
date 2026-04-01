@@ -23,10 +23,8 @@ ORDER BY
 LIMIT 10;
 
 
--- The highest-paying role is Senior Business & Data Analyst at $119,250/year (Deutsche Bank).
+-- The highest-paying role is Senior Business & Data Analyst at $119,250/year (Deutsche Bank), followed closely by Sr. Enterprise Data Analyst at $118,140/year (ACA Group).
 
--- Other top-paying jobs include Sr. Enterprise Data Analyst ($118,140/year, ACA Group) and HR Data Operations Analyst ($104,550/year, Clarivate).
+-- Mid-tier roles like HR Data Operations Analyst (Clarivate) and Financial Data Analyst still offer strong salaries above $100K, while entry-level or niche positions like Data Analyst I (Bristol Myers Squibb) and IT Data Analytic Architect (Merck Group) fall in the $64K–71K range.
 
--- Entry-level or specialized roles like IT Data Analytic Architect (Merck Group) and Data Analyst I (Bristol Myers Squibb) offer lower salaries in the $64k–71k range.
-
--- Overall, analyst roles dominate the dataset, with salaries ranging from $64k to $119k.
+-- Overall, analyst roles dominate the dataset, with salaries spanning $64K–119K, showing a clear premium for seniority and specialization.
