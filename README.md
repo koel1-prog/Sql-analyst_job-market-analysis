@@ -90,6 +90,8 @@ LIMIT 10;
 
 ● Overall, analyst roles dominate the dataset, with salaries spanning $64K–119K, showing a clear premium for seniority and specialization.
 
+![Top 10 Highest Paying Jobs](assets/Top_10_highest_paying_jobs.jpeg)
+
 ### 2. Skills for Top-Paying Jobs  
 To understand what skills are required for the top-paying jobs, I joined the job postings with the skills data, providing insights into what employers value for high-compensation roles.
 
@@ -133,6 +135,8 @@ ORDER BY salary_year_avg DESC;
 
 ● The highest-paying jobs are concentrated in tech, finance, and healthcare multinationals, reflecting mature data ecosystems and global demand.
 
+![Top 15 Highest Paying Skills](assets/Highest_paying_skills.jpeg)
+
 ---
 
 ### 3. Most In-Demand Skills  
@@ -160,6 +164,8 @@ LIMIT 10;
 ● Python and Excel are nearly tied for second place, showing strong demand for both programming and spreadsheet proficiency.
 
 ● Visualization tools like Tableau and Power BI plus statistical tools (R, SAS) remain highly relevant, especially in analytics and research-heavy roles.
+
+![Top 10 Most_Demanded Skills](assets/Top_10_skills.jpeg)
 
 ---
 
@@ -189,6 +195,8 @@ LIMIT 25;
 ● ML & Data Science tools — DataRobot, Jupyter, Pandas, NumPy — consistently deliver salaries above $140K, proving their central role in remote analytics.
 
 ● DevOps, cloud, and programming skills — GitLab, Golang, Kubernetes, Swift — are highly valued, blending engineering with analytics for premium pay.
+
+![Top skills for data analyst](assets/Top_skills_data_analyst_role.jpeg)
 
 ---
 
@@ -243,6 +251,8 @@ LIMIT 25;
 ● Balanced skills such as Pandas (9 postings, $151K) and Databricks (10 postings, $141K) combine strong demand with solid salaries, making them the most practical career investments.
 
 ● Supporting tools like NumPy, Airflow, Scala, PostgreSQL hold steady relevance with moderate demand (3–5 postings) and salaries in the $122K–143K range, ensuring versatility in remote analytics.
+
+![Most Optimal Skills](assets/optimal_skills.jpeg)
 
 ---
 
