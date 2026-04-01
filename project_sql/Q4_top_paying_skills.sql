@@ -16,8 +16,8 @@ ORDER BY avg_salary DESC
 LIMIT 25;
 
 
---  PySpark tops the chart with the highest average salary of $208K, followed by Bitbucket and Couchbase.
+-- PySpark ($208K) leads the pack, followed by Bitbucket and Couchbase, showing niche but extremely lucrative skills.
 
---  ML and data science tools like DataRobot, Jupyter, Pandas, and NumPy consistently offer salaries above $140K.
+-- ML & Data Science tools — DataRobot, Jupyter, Pandas, NumPy — consistently deliver salaries above $140K, proving their central role in remote analytics.
 
---  DevOps, cloud, and programming skills — including GitLab, Golang, Kubernetes, and Swift — are highly valued in remote roles.
+-- DevOps, cloud, and programming skills — GitLab, Golang, Kubernetes, Swift — are highly valued, blending engineering with analytics for premium pay.
